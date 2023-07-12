@@ -1,11 +1,18 @@
 # Android-timer
 
 Description:
-The program is a simple timer application.
-The user can set a timer value up to 10 minutes.
-When the timer reaches zero, it triggers an audio signal.
+This is a simple timer application where users can set the timer value up to 10 minutes by adjusting a slider. When the timer reaches zero, it triggers a sound notification.
 
-<img src="https://i.ibb.co/YTW22QJ/Screenshot-1.jpg" >
+Features:
+
+* Set the timer duration up to 10 minutes by adjusting the slider.
+* When the timer reaches zero, a sound notification is played.
+* Customize timer settings:
+* * Enable or disable notifications.
+* * Select a preferred notification melody.
+* * Set a default timer interval.
+
+<img src="https://i.ibb.co/2h5MXzS/image.jpg" >
 
 
 
